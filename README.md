@@ -87,3 +87,21 @@ Use Case Diagrams are a type of behavioral diagram in Unified Modeling Language 
 - **Communication:** Use case diagrams facilitate effective communication between stakeholders, developers, and designers by visually mapping out user interactions and system boundaries.
 - **Requirement Validation:** They help ensure that all functional requirements are captured and validated, reducing the risk of missing or misunderstood requirements.
 - **Scope Definition:** Use case diagrams help define the scope of the system by identifying the actors and their interactions, which is useful for project planning and management.
+## Acceptance Criteria
+
+Acceptance Criteria are specific, measurable conditions that a software product or feature must satisfy to be considered complete and acceptable by stakeholders. They are written in clear, unambiguous language and serve as the basis for validating whether requirements have been met.
+
+### Importance of Acceptance Criteria in Requirement Analysis
+
+- **Clarity and Alignment:** Acceptance criteria ensure that all stakeholders have a shared understanding of what needs to be delivered, reducing ambiguity and misinterpretation.
+- **Testability:** They provide a concrete basis for creating test cases and verifying that the implemented feature meets the requirements.
+- **Scope Control:** Acceptance criteria help prevent scope creep by clearly defining the boundaries of a feature or requirement.
+- **Quality Assurance:** They contribute to higher quality deliverables by setting clear expectations for functionality and performance.
+
+### Example: Acceptance Criteria for Checkout Feature in Booking Management System
+
+- The user must be able to review their booking details before proceeding to payment.
+- The system must display the total price, including taxes and fees, before payment is made.
+- The user must be able to enter and validate payment information securely.
+- Upon successful payment, the system must generate a booking confirmation and send it to the user via email within 5 minutes.
+- If payment fails, the user must receive a clear error message and be given the option to retry or use a different payment method.
