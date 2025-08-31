@@ -30,3 +30,24 @@ Requirement Analysis is a cornerstone of successful software development. Here a
 
 3. **Reduces Costs and Improves Efficiency:**
 	- Identifying and resolving ambiguities or conflicts in requirements early in the SDLC helps avoid expensive rework, delays, and resource wastage. Well-defined requirements streamline the design, development, and testing phases, leading to more efficient project execution.
+
+## Key Activities in Requirement Analysis
+
+The requirement analysis process consists of several key activities that ensure the software meets stakeholder needs and expectations:
+
+- **Requirement Gathering:**
+	- Collecting information from stakeholders, users, and other sources to identify their needs, expectations, and constraints for the software system.
+
+- **Requirement Elicitation:**
+	- Engaging with stakeholders through interviews, surveys, workshops, and observation to uncover and clarify requirements, including those that may not be immediately obvious.
+
+- **Requirement Documentation:**
+	- Systematically recording and organizing requirements in a clear, structured format (such as requirement specifications or user stories) to ensure they are accessible and understandable to all stakeholders.
+
+- **Requirement Analysis and Modeling:**
+	- Examining, categorizing, prioritizing, and modeling requirements to resolve ambiguities, detect conflicts, and ensure completeness and feasibility. This may involve creating diagrams, use cases, or prototypes.
+
+- **Requirement Validation:**
+	- Reviewing and verifying requirements with stakeholders to confirm accuracy, completeness, and alignment with business objectives before proceeding to design and development.
+
+    =
