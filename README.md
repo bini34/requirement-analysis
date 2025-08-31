@@ -50,4 +50,40 @@ The requirement analysis process consists of several key activities that ensure 
 - **Requirement Validation:**
 	- Reviewing and verifying requirements with stakeholders to confirm accuracy, completeness, and alignment with business objectives before proceeding to design and development.
 
-    =
+
+## Types of Requirements
+
+### Functional Requirements
+
+Functional requirements define what the system should do—its specific behaviors, features, and functions. They describe the interactions between the system and its users or other systems, outlining the tasks the software must accomplish.
+
+**Examples for a Hotel Booking Management Project:**
+- Users can search for hotels based on location, dates, price, and amenities.
+- Hotel managers can add, update, or remove hotel listings and room availability.
+- Customers can book a hotel room and receive a booking confirmation.
+- The system processes payments securely through third-party payment gateways.
+- Users can view, modify, or cancel their bookings.
+- The system sends notifications to customers and hotel managers for booking confirmations, cancellations, and special offers.
+
+### Non-functional Requirements
+
+Non-functional requirements specify how the system performs its functions. They define the quality attributes, constraints, and standards the system must meet, such as performance, security, usability, and scalability.
+
+**Examples for a Hotel Booking Management Project:**
+- The system must handle at least 10,000 concurrent users without performance degradation.
+- All sensitive user data (such as payment information) must be encrypted in transit and at rest.
+- The booking confirmation should be sent to the user within 5 seconds of successful payment.
+- The application should be available 99.9% of the time (high availability).
+- The user interface must be accessible and responsive on both desktop and mobile devices.
+- The system should be able to scale horizontally to accommodate increased traffic during peak seasons.
+
+## Use Case Diagrams
+
+Use Case Diagrams are a type of behavioral diagram in Unified Modeling Language (UML) that visually represent the interactions between users (actors) and a system to achieve specific goals. They illustrate the functional requirements of a system by showing the various use cases (actions or services) that users can perform and how these use cases relate to each other and to the actors involved.
+
+### Benefits of Use Case Diagrams
+
+- **Clarity:** They provide a clear and simple overview of system functionality from the user's perspective, making it easier for stakeholders to understand what the system will do.
+- **Communication:** Use case diagrams facilitate effective communication between stakeholders, developers, and designers by visually mapping out user interactions and system boundaries.
+- **Requirement Validation:** They help ensure that all functional requirements are captured and validated, reducing the risk of missing or misunderstood requirements.
+- **Scope Definition:** Use case diagrams help define the scope of the system by identifying the actors and their interactions, which is useful for project planning and management.
